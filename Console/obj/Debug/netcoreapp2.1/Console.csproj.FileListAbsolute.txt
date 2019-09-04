@@ -1,0 +1,14 @@
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.csprojAssemblyReference.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.AssemblyInfoInputs.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.AssemblyInfo.cs
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Console.deps.json
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Console.runtimeconfig.json
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Console.runtimeconfig.dev.json
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Console.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Console.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.csproj.CopyComplete
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Console\obj\Debug\netcoreapp2.1\Console.pdb

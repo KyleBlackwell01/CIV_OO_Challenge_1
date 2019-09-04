@@ -1,0 +1,16 @@
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.engine.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.engine.api.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\ShapesTest.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\ShapesTest.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.framework.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\Shapes.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\Shapes.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.framework.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\bin\Debug\nunit.framework.xml
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csprojAssemblyReference.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csproj.CoreCompileInputs.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.csproj.CopyComplete
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\ShapesTest\obj\Debug\ShapesTest.pdb

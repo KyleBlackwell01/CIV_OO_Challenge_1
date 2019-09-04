@@ -1,0 +1,11 @@
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csprojAssemblyReference.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CoreCompileInputs.cache
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Triangle_Tests.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Shapes.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\Shapes.pdb
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\bin\Debug\nunit.framework.xml
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CopyComplete
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.dll
+C:\Users\102472889\Documents\GIT\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.pdb
